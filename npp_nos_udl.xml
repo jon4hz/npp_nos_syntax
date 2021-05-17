@@ -29,7 +29,7 @@
             <Keywords name="Keywords3">dis&#x000D;&#x000A;disa&#x000D;&#x000A;disable&#x000D;&#x000A;disabled&#x000D;&#x000A;remove&#x000D;&#x000A;removed&#x000D;&#x000A;denie&#x000D;&#x000A;denied&#x000D;&#x000A;shutdown&#x000D;&#x000A;shut&#x000D;&#x000A;no</Keywords>
             <Keywords name="Keywords4">switchport&#x000D;&#x000A;switch&#x000D;&#x000A;name&#x000D;&#x000A;desc&#x000D;&#x000A;description&#x000D;&#x000A;fabric isl enable&#x000D;&#x000A;no fabric isl enable&#x000D;&#x000A;fabric trunk enable&#x000D;&#x000A;no fabric trunk enable&#x000D;&#x000A;spanning-tree&#x000D;&#x000A;release&#x000D;&#x000A;reserve&#x000D;&#x000A;channel-group&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords5">mode trunk&#x000D;&#x000A;trunk&#x000D;&#x000A;mode access&#x000D;&#x000A;access</Keywords>
-            <Keywords name="Keywords6">TenGigabitEthernet&#x000D;&#x000A;Te&#x000D;&#x000A;ten&#x000D;&#x000A;FortyGigabitEthernet&#x000D;&#x000A;fo</Keywords>
+            <Keywords name="Keywords6">TenGigabitEthernet&#x000D;&#x000A;Te&#x000D;&#x000A;ten&#x000D;&#x000A;FortyGigabitEthernet&#x000D;&#x000A;fo&#x000D;&#x000A;po&#x000D;&#x000A;port-channel</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
             <Keywords name="Delimiters">00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
